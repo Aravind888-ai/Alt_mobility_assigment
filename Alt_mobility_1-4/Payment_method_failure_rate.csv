@@ -1,0 +1,4 @@
+payment_method,total_transactions,failed_transactions,failure_rate_percentage
+paypal,4919,1579,32.1
+credit card,4976,1666,33.48
+bank transfer,5105,1758,34.44

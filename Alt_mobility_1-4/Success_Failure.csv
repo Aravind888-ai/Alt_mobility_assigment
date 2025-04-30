@@ -1,0 +1,4 @@
+payment_status,total_payments,total_value
+completed,4991,1257085.15
+failed,5003,1273618.69
+pending,5006,1273403.02
